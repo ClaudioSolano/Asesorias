@@ -1,0 +1,17 @@
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\bin\Debug\net6.0-windows\JuegoPintarCoches.exe
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\bin\Debug\net6.0-windows\JuegoPintarCoches.deps.json
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\bin\Debug\net6.0-windows\JuegoPintarCoches.runtimeconfig.json
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\bin\Debug\net6.0-windows\JuegoPintarCoches.dll
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\bin\Debug\net6.0-windows\JuegoPintarCoches.pdb
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.Form1.resources
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.dll
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\refint\JuegoPintarCoches.dll
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.pdb
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\ref\JuegoPintarCoches.dll
+C:\Users\Fernando\Desktop\Int\Parcial2\Actividad2-Pilas_Colas\JuegoPintarCoches\obj\Debug\net6.0-windows\JuegoPintarCoches.Properties.Resources.resources
